@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.json({ message: "This is the bew latest" });
+  res.json({ message: "HIIIIIIIII-DISC ON TOP" });
 });
 
 const PORT = process.env.PORT || 3005;
